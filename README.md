@@ -1,6 +1,7 @@
 ### Hi there 👋
-https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif
-<!--
+<!--!
+[d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/102978970/196907727-b6a13da0-3daa-44ec-8840-54216d858d9d.gif)
+
 **oshrit-feruz/oshrit-feruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
