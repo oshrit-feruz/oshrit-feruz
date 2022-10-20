@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github">
 🔭 I’m graduate of Cyber4s full stack Program of Scale Up Velocity.<br>🌱 Seeking a place to grow, learn, and advance.<br>⚡ Fun fact- One thing I cannot live without is my cutie baby dog "Blondie".
 
 
