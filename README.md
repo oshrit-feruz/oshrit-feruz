@@ -4,7 +4,6 @@
 
  ### -🔭 I’m graduate of Cyber4s full stack Program of Scale Up Velocity.<br>
  ### -🌱 Seeking a place to grow, learn, and advance.<br>
- ### -⚡ Fun fact- One thing I cannot live without is my cutie baby dog "Blondie".
 
 
 ## 🌐 Socials:
